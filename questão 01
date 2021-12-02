@@ -1,0 +1,16 @@
+<?php
+$pessoa = array
+'nome'=> 'Maria Clara',
+'CPF'=> 087883456- 18,
+'RG'=> 2006089107117,
+'Idade'=> 55,
+'altura'=>1,75),
+
+);
+foreach($pessoa as $valeu){
+	    echo$valeu;
+	    # code...ss
+
+}
+
+//Clebson Gomes de Araújo
