@@ -1,0 +1,7 @@
+<?php
+//criar as variaveis recebendo o POST
+$nome= $_POST['NOME'];
+$eamel= $_POST['e-mail'];
+$idade= $_POST['idade'];
+
+}
